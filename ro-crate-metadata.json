@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2024-06-25T09:57:05.229158",
+            "datePublished": "2026-07-16T08:41:57.514451",
             "hasPart": [
                 {
                     "@id": "Pathogen-Detection-PathoGFAIR-Samples-Aggregation-and-Visualisation.ga"
@@ -78,7 +78,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/pathogen-detection-pathogfair-samples-aggregation-and-visualisation",
-            "version": "0.1"
+            "version": "0.2"
         },
         {
             "@id": "#galaxy",
@@ -154,7 +154,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.23"
+            "engineVersion": ">=0.75.45"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
